@@ -1,0 +1,13 @@
+{
+  "types": [
+    {"id": "graphite_cube", "image": "img/graphite_cube.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 142}},
+    {"id": "metal_cube", "image": "img/metal_cube.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 142}},
+    {"id": "wood_cube", "image": "img/wood_cube.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 142}},
+    {"id": "graphite_horizontal", "image": "img/graphite_horizontal.png", "collision": {"top": 15, "left": 30, "right": 471, "bottom": 142}},
+    {"id": "metal_horizontal", "image": "img/metal_horizontal.png", "collision": {"top": 15, "left": 30, "right": 471, "bottom": 142}},
+    {"id": "wood_horizontal", "image": "img/wood_horizontal.png", "collision": {"top": 15, "left": 30, "right": 471, "bottom": 142}},
+    {"id": "graphite_vertical", "image": "img/graphite_vertical.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 456}},
+    {"id": "metal_vertical", "image": "img/metal_vertical.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 456}},
+    {"id": "wood_vertical", "image": "img/wood_vertical.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 456}}
+  ]
+}

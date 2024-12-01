@@ -1,0 +1,159 @@
+{
+  "id": 6,
+  "stage": {
+    "width": 2032,
+    "height": 2032
+  },
+  "borders": {
+    "bottom": 3,
+    "left": 5,
+    "top": 9
+  },
+  "blocks": [
+    {
+      "type": "graphite_cube",
+      "x": -127,
+      "y": 2032
+    },
+    {
+      "type": "graphite_cube",
+      "x": -127,
+      "y": 1905
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 1270
+    },
+    {
+      "type": "graphite_cube",
+      "x": 612,
+      "y": 1317
+    },
+    {
+      "type": "graphite_cube",
+      "x": 792,
+      "y": 1551
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1287,
+      "y": 1663
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1414,
+      "y": 1663
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1321,
+      "y": 1536
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1651,
+      "y": 2032
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1778,
+      "y": 2032
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1778,
+      "y": 1905
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 2032
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 1905
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 1778
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 1651
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 1524
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 1397
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 1270
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 1143
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 1016
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 889
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 762
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 635
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 508
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 381
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 254
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 127
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": 0
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1905,
+      "y": -127
+    }
+  ]
+}

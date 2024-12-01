@@ -1,0 +1,18 @@
+{
+  "id": 9,
+  "stage": {
+    "width": 2032,
+    "height": 2032
+  },
+  "borders": {
+    "bottom": 6,
+    "left": 8
+  },
+  "blocks": [
+    {
+      "type": "wood_horizontal",
+      "x": -237,
+      "y": 741
+    }
+  ]
+}
