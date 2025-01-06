@@ -1,0 +1,199 @@
+{
+  "id": 4,
+  "stage": {
+    "width": 2032,
+    "height": 2032
+  },
+  "borders": {
+    "bottom": 1,
+    "right": 5,
+    "top": 7
+  },
+  "blocks": [
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 2032
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 1905
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 1778
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 1651
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 1524
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 1397
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 1270
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 1143
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 1016
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 889
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 762
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 635
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 508
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 381
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 254
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 127
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": -127
+    },
+    {
+      "type": "graphite_cube",
+      "x": 254,
+      "y": 1872
+    },
+    {
+      "type": "graphite_vertical",
+      "x": 254,
+      "y": 1396
+    },
+    {
+      "type": "graphite_vertical",
+      "x": 254,
+      "y": 883
+    },
+    {
+      "type": "graphite_cube",
+      "x": 254,
+      "y": 734
+    },
+    {
+      "type": "graphite_cube",
+      "x": 254,
+      "y": 552
+    },
+    {
+      "type": "graphite_vertical",
+      "x": 254,
+      "y": 58
+    },
+    {
+      "type": "wood_cube",
+      "x": 254,
+      "y": -127
+    },
+    {
+      "type": "graphite_horizontal",
+      "x": 458,
+      "y": 1202
+    },
+    {
+      "type": "graphite_cube",
+      "x": 398,
+      "y": 1075
+    },
+    {
+      "type": "graphite_cube",
+      "x": 398,
+      "y": 922
+    },
+    {
+      "type": "graphite_cube",
+      "x": 652,
+      "y": 948
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1048,
+      "y": 1742
+    },
+    {
+      "type": "graphite_cube",
+      "x": 978,
+      "y": 1597
+    },
+    {
+      "type": "graphite_cube",
+      "x": 963,
+      "y": 1450
+    },
+    {
+      "type": "graphite_horizontal",
+      "x": 779,
+      "y": 855
+    },
+    {
+      "type": "graphite_horizontal",
+      "x": 1812,
+      "y": 1341
+    },
+    {
+      "type": "graphite_horizontal",
+      "x": 1591,
+      "y": 731
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1545,
+      "y": 604
+    },
+    {
+      "type": "graphite_horizontal",
+      "x": 2032,
+      "y": 731
+    }
+  ]
+}

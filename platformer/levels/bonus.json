@@ -1,0 +1,269 @@
+{
+  "id": 1000,
+  "stage": {
+    "width": 2032,
+    "height": 2032
+  },
+  "borders": {
+    "right": 7
+  },
+  "blocks": [
+    {
+      "type": "wood_cube",
+      "x": -127,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 127,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 119,
+      "y": 1146
+    },
+    {
+      "type": "wood_cube",
+      "x": 119,
+      "y": 1019
+    },
+    {
+      "type": "wood_cube",
+      "x": 119,
+      "y": 892
+    },
+    {
+      "type": "wood_cube",
+      "x": 254,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 381,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 331,
+      "y": 1541
+    },
+    {
+      "type": "wood_cube",
+      "x": 331,
+      "y": 1414
+    },
+    {
+      "type": "wood_cube",
+      "x": 246,
+      "y": 1146
+    },
+    {
+      "type": "wood_cube",
+      "x": 508,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 458,
+      "y": 1541
+    },
+    {
+      "type": "wood_cube",
+      "x": 458,
+      "y": 1414
+    },
+    {
+      "type": "wood_cube",
+      "x": 635,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 762,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 667,
+      "y": 691
+    },
+    {
+      "type": "wood_cube",
+      "x": 889,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 794,
+      "y": 691
+    },
+    {
+      "type": "wood_cube",
+      "x": 1016,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 921,
+      "y": 691
+    },
+    {
+      "type": "wood_cube",
+      "x": 1143,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 1127,
+      "y": 1510
+    },
+    {
+      "type": "wood_cube",
+      "x": 1048,
+      "y": 691
+    },
+    {
+      "type": "wood_cube",
+      "x": 1270,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 1254,
+      "y": 1637
+    },
+    {
+      "type": "wood_cube",
+      "x": 1254,
+      "y": 1510
+    },
+    {
+      "type": "wood_cube",
+      "x": 1397,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 1381,
+      "y": 1637
+    },
+    {
+      "type": "wood_cube",
+      "x": 1524,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 1651,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 1778,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 1905,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 1651
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 1524
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 1397
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 1270
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 1143
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 1016
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 889
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 762
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 635
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 508
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 381
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 254
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 127
+    },
+    {
+      "type": "wood_cube",
+      "x": 2032,
+      "y": 0
+    },
+    {
+      "type": "metal_cube",
+      "x": 2032,
+      "y": -127
+    }
+  ],
+  "images": [
+    {
+      "type": "bonus_room",
+      "x": 650,
+      "y": 1668
+    },
+    {
+      "type": "extended_edit_instructions",
+      "x": 720,
+      "y": 487
+    }
+  ]
+}

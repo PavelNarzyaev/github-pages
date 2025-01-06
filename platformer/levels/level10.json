@@ -1,0 +1,378 @@
+{
+  "id": 10,
+  "stage": {
+    "width": 2032,
+    "height": 2032
+  },
+  "borders": {
+    "bottom": 7,
+    "right": 11
+  },
+  "blocks": [
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 2032
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 1905
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 1778
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 1651
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 1524
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 1397
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 1270
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 1143
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 1016
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 889
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 739
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 590
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": 438
+    },
+    {
+      "type": "graphite_cube",
+      "x": 41,
+      "y": 271
+    },
+    {
+      "type": "graphite_cube",
+      "x": 114,
+      "y": 109
+    },
+    {
+      "type": "wood_cube",
+      "x": 254,
+      "y": 2032
+    },
+    {
+      "type": "metal_cube",
+      "x": 254,
+      "y": 1905
+    },
+    {
+      "type": "metal_cube",
+      "x": 254,
+      "y": 1778
+    },
+    {
+      "type": "metal_cube",
+      "x": 254,
+      "y": 1651
+    },
+    {
+      "type": "metal_cube",
+      "x": 254,
+      "y": 1524
+    },
+    {
+      "type": "metal_cube",
+      "x": 254,
+      "y": 1397
+    },
+    {
+      "type": "metal_cube",
+      "x": 254,
+      "y": 1270
+    },
+    {
+      "type": "metal_cube",
+      "x": 254,
+      "y": 1143
+    },
+    {
+      "type": "metal_cube",
+      "x": 254,
+      "y": 1016
+    },
+    {
+      "type": "metal_cube",
+      "x": 254,
+      "y": 889
+    },
+    {
+      "type": "metal_cube",
+      "x": 254,
+      "y": 762
+    },
+    {
+      "type": "metal_cube",
+      "x": 534,
+      "y": 1892
+    },
+    {
+      "type": "graphite_cube",
+      "x": 463,
+      "y": 1633
+    },
+    {
+      "type": "metal_cube",
+      "x": 600,
+      "y": 1744
+    },
+    {
+      "type": "metal_cube",
+      "x": 591,
+      "y": 1476
+    },
+    {
+      "type": "wood_cube",
+      "x": 491,
+      "y": 1317
+    },
+    {
+      "type": "graphite_cube",
+      "x": 786,
+      "y": 1852
+    },
+    {
+      "type": "wood_cube",
+      "x": 756,
+      "y": 1717
+    },
+    {
+      "type": "metal_cube",
+      "x": 776,
+      "y": 1557
+    },
+    {
+      "type": "graphite_cube",
+      "x": 667,
+      "y": 1323
+    },
+    {
+      "type": "graphite_cube",
+      "x": 588,
+      "y": 1162
+    },
+    {
+      "type": "wood_cube",
+      "x": 504,
+      "y": 1016
+    },
+    {
+      "type": "wood_cube",
+      "x": 407,
+      "y": 824
+    },
+    {
+      "type": "metal_cube",
+      "x": 768,
+      "y": 1164
+    },
+    {
+      "type": "graphite_cube",
+      "x": 702,
+      "y": 999
+    },
+    {
+      "type": "metal_cube",
+      "x": 997,
+      "y": 1904
+    },
+    {
+      "type": "metal_cube",
+      "x": 986,
+      "y": 1750
+    },
+    {
+      "type": "metal_cube",
+      "x": 977,
+      "y": 1599
+    },
+    {
+      "type": "graphite_cube",
+      "x": 906,
+      "y": 1382
+    },
+    {
+      "type": "metal_cube",
+      "x": 864,
+      "y": 967
+    },
+    {
+      "type": "metal_cube",
+      "x": 793,
+      "y": 823
+    },
+    {
+      "type": "graphite_cube",
+      "x": 695,
+      "y": -23
+    },
+    {
+      "type": "wood_cube",
+      "x": 985,
+      "y": 532
+    },
+    {
+      "type": "graphite_cube",
+      "x": 894,
+      "y": 26
+    },
+    {
+      "type": "metal_cube",
+      "x": 1148,
+      "y": 1857
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1323,
+      "y": 1871
+    },
+    {
+      "type": "wood_cube",
+      "x": 1235,
+      "y": 1707
+    },
+    {
+      "type": "metal_cube",
+      "x": 1164,
+      "y": 1162
+    },
+    {
+      "type": "wood_cube",
+      "x": 1137,
+      "y": 510
+    },
+    {
+      "type": "metal_cube",
+      "x": 1502,
+      "y": 1824
+    },
+    {
+      "type": "metal_cube",
+      "x": 1425,
+      "y": 1674
+    },
+    {
+      "type": "metal_cube",
+      "x": 1432,
+      "y": 643
+    },
+    {
+      "type": "metal_cube",
+      "x": 1318,
+      "y": 497
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1270,
+      "y": 11
+    },
+    {
+      "type": "wood_cube",
+      "x": 1735,
+      "y": 1827
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1658,
+      "y": 1679
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1561,
+      "y": 1410
+    },
+    {
+      "type": "metal_cube",
+      "x": 1590,
+      "y": 994
+    },
+    {
+      "type": "metal_cube",
+      "x": 1894,
+      "y": 1873
+    },
+    {
+      "type": "metal_cube",
+      "x": 1904,
+      "y": 1717
+    },
+    {
+      "type": "wood_cube",
+      "x": 1877,
+      "y": 1567
+    },
+    {
+      "type": "metal_cube",
+      "x": 1851,
+      "y": 1132
+    },
+    {
+      "type": "metal_cube",
+      "x": 1746,
+      "y": 758
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1629,
+      "y": 138
+    },
+    {
+      "type": "metal_cube",
+      "x": 1873,
+      "y": 960
+    },
+    {
+      "type": "metal_cube",
+      "x": 1883,
+      "y": 762
+    },
+    {
+      "type": "graphite_cube",
+      "x": 1841,
+      "y": 166
+    },
+    {
+      "type": "graphite_cube",
+      "x": 2016,
+      "y": 856
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "id": 7,
+  "stage": {
+    "width": 2032,
+    "height": 2032
+  },
+  "borders": {
+    "bottom": 4,
+    "right": 8,
+    "left": 1000,
+    "top": 10
+  },
+  "blocks": [
+    {
+      "type": "wood_cube",
+      "x": -128,
+      "y": 1905
+    },
+    {
+      "type": "graphite_cube",
+      "x": 0,
+      "y": 2032
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 1651
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 1524
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 1397
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 1270
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 1143
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 1016
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 889
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 762
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 635
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 508
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 381
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 254
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 127
+    },
+    {
+      "type": "wood_cube",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "type": "metal_cube",
+      "x": 0,
+      "y": -127
+    },
+    {
+      "type": "wood_cube",
+      "x": 254,
+      "y": 1905
+    },
+    {
+      "type": "wood_cube",
+      "x": 254,
+      "y": 1755
+    },
+    {
+      "type": "wood_vertical",
+      "x": 254,
+      "y": 1294
+    },
+    {
+      "type": "wood_cube",
+      "x": 254,
+      "y": 1164
+    },
+    {
+      "type": "wood_cube",
+      "x": 254,
+      "y": 987
+    },
+    {
+      "type": "wood_cube",
+      "x": 254,
+      "y": 822
+    },
+    {
+      "type": "wood_vertical",
+      "x": 254,
+      "y": 381
+    },
+    {
+      "type": "wood_cube",
+      "x": 254,
+      "y": 254
+    },
+    {
+      "type": "wood_cube",
+      "x": 254,
+      "y": 127
+    },
+    {
+      "type": "wood_cube",
+      "x": 254,
+      "y": 0
+    },
+    {
+      "type": "metal_cube",
+      "x": 254,
+      "y": -127
+    },
+    {
+      "type": "wood_horizontal",
+      "x": 627,
+      "y": 1824
+    },
+    {
+      "type": "wood_cube",
+      "x": 936,
+      "y": 1655
+    },
+    {
+      "type": "wood_horizontal",
+      "x": 983,
+      "y": 1483
+    },
+    {
+      "type": "wood_cube",
+      "x": 1240,
+      "y": 1218
+    },
+    {
+      "type": "wood_cube",
+      "x": 1565,
+      "y": 955
+    },
+    {
+      "type": "wood_horizontal",
+      "x": 1408,
+      "y": 514
+    },
+    {
+      "type": "wood_horizontal",
+      "x": 2012,
+      "y": 1278
+    }
+  ],
+  "images": [
+    {
+      "type": "mysterious_guy",
+      "x": 65,
+      "y": 1807
+    },
+    {
+      "type": "right_wall_tip",
+      "x": 1450,
+      "y": 332
+    }
+  ]
+}

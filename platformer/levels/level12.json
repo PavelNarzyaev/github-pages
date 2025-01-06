@@ -1,0 +1,178 @@
+{
+  "id": 12,
+  "stage": {
+    "width": 2032,
+    "height": 2032
+  },
+  "borders": {
+    "bottom": 9,
+    "left": 11
+  },
+  "blocks": [
+    {
+      "type": "metal_cube",
+      "x": -124,
+      "y": 1762
+    },
+    {
+      "type": "graphite_cube",
+      "x": 7,
+      "y": 1762
+    },
+    {
+      "type": "metal_vertical",
+      "x": -1,
+      "y": 1128
+    },
+    {
+      "type": "metal_vertical",
+      "x": 86,
+      "y": 673
+    },
+    {
+      "type": "metal_cube",
+      "x": 947,
+      "y": 1085
+    },
+    {
+      "type": "metal_vertical",
+      "x": 898,
+      "y": 644
+    },
+    {
+      "type": "metal_cube",
+      "x": 1025,
+      "y": 577
+    },
+    {
+      "type": "metal_cube",
+      "x": 1319,
+      "y": 1969
+    },
+    {
+      "type": "metal_vertical",
+      "x": 1200,
+      "y": 1085
+    },
+    {
+      "type": "metal_cube",
+      "x": 1446,
+      "y": 1969
+    },
+    {
+      "type": "metal_cube",
+      "x": 1332,
+      "y": 1842
+    },
+    {
+      "type": "metal_cube",
+      "x": 1327,
+      "y": 1218
+    },
+    {
+      "type": "metal_cube",
+      "x": 1459,
+      "y": 1842
+    },
+    {
+      "type": "metal_cube",
+      "x": 1564,
+      "y": 1588
+    },
+    {
+      "type": "metal_cube",
+      "x": 1454,
+      "y": 1218
+    },
+    {
+      "type": "metal_vertical",
+      "x": 1717,
+      "y": 1340
+    },
+    {
+      "type": "metal_horizontal",
+      "x": 1454,
+      "y": 964
+    },
+    {
+      "type": "metal_horizontal",
+      "x": 1152,
+      "y": 831
+    },
+    {
+      "type": "metal_vertical",
+      "x": 1279,
+      "y": 345
+    },
+    {
+      "type": "metal_cube",
+      "x": 1231,
+      "y": 218
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 1905
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 1778
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 1651
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 1524
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 1397
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 1270
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 1143
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 1016
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 889
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 762
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 635
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 508
+    },
+    {
+      "type": "metal_cube",
+      "x": 1905,
+      "y": 381
+    }
+  ]
+}

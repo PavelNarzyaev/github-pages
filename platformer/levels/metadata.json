@@ -1,0 +1,25 @@
+{
+  "blockTypes": [
+    {"id": "graphite_cube", "image": "img/blocks/graphite_cube.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 142}},
+    {"id": "metal_cube", "image": "img/blocks/metal_cube.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 142}},
+    {"id": "wood_cube", "image": "img/blocks/wood_cube.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 142}},
+    {"id": "graphite_horizontal", "image": "img/blocks/graphite_horizontal.png", "collision": {"top": 15, "left": 30, "right": 471, "bottom": 142}},
+    {"id": "metal_horizontal", "image": "img/blocks/metal_horizontal.png", "collision": {"top": 15, "left": 30, "right": 471, "bottom": 142}},
+    {"id": "wood_horizontal", "image": "img/blocks/wood_horizontal.png", "collision": {"top": 15, "left": 30, "right": 471, "bottom": 142}},
+    {"id": "graphite_vertical", "image": "img/blocks/graphite_vertical.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 456}},
+    {"id": "metal_vertical", "image": "img/blocks/metal_vertical.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 456}},
+    {"id": "wood_vertical", "image": "img/blocks/wood_vertical.png", "collision": {"top": 15, "left": 30, "right": 157, "bottom": 456}}
+  ],
+  "imagesTypes": [
+    {"id": "first_instructions", "image": "img/background_images/first_instructions.png"},
+    {"id": "trophy_tip", "image": "img/background_images/trophy_tip.png"},
+    {"id": "right_wall_tip", "image": "img/background_images/right_wall_tip.png"},
+    {"id": "mysterious_guy", "image": "img/background_images/mysterious_guy.png"},
+    {"id": "final_instructions", "image": "img/background_images/final_instructions.png"},
+    {"id": "bonus_room", "image": "img/background_images/bonus_room.png"},
+    {"id": "extended_edit_instructions", "image": "img/background_images/extended_edit_instructions.png"}
+  ],
+  "collectiblesTypes": [
+    {"id": "cup", "image": "img/collectibles/cup.png", "collision": {"top": 20, "left": -27, "right": 130, "bottom": 190}}
+  ]
+}
