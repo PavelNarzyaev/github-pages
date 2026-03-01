@@ -5,6 +5,7 @@
 * [Blast (Cocos Creator)](https://pavelnarzyaev.github.io/github-pages/blast/ "Open game")
 * [Rex (PixiJS)](https://pavelnarzyaev.github.io/github-pages/rex/ "Open game") (keyboard controls only)
 * [Platformer (PixiJS)](https://pavelnarzyaev.github.io/github-pages/platformer/ "Open game") (keyboard controls only)
+* [Cat Pond (PixiJS)](https://pavelnarzyaev.github.io/github-pages/pixitest/ "Open game")
 
 ## 🛠️ Experiments
 
