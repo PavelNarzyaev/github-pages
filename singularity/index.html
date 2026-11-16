@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>text.txt</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="book.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="toolbar">
+    <button id="contents" aria-label="Выбрать главу" aria-expanded="false" aria-controls="chapters"><svg viewBox="0 0 24 24"><path d="M4 5h16M4 12h16M4 19h16"/></svg></button>
+    <div class="counter"><span id="current">01</span><span class="slash">/</span><span id="total">04</span></div>
+    <div class="settings"><button id="smaller" aria-label="Уменьшить шрифт">A−</button><button id="larger" aria-label="Увеличить шрифт">A+</button><button id="theme" aria-label="Переключить тему"><svg viewBox="0 0 24 24"><path d="M20 15.4A8.5 8.5 0 0 1 8.6 4a8.5 8.5 0 1 0 11.4 11.4Z"/></svg></button></div>
+  </header>
+  <nav id="chapters" aria-label="Главы" hidden></nav>
+  <main id="reader">
+    <div class="chapter-mark" aria-hidden="true"><span></span><b id="chapter-number">01</b><span></span></div>
+    <figure><img id="illustration" src="assets/chapter-01.jpg" alt="" width="1536" height="1024" fetchpriority="high"></figure>
+    <article id="text" tabindex="-1" aria-label="Текст главы"></article>
+    <footer><button id="previous" aria-label="Предыдущая глава">←</button><span id="footer-number">01 / 04</span><button id="next" aria-label="Следующая глава">→</button></footer>
+  </main>
+  <div class="progress" aria-hidden="true"><div id="progress"></div></div>
+</body>
+</html>
